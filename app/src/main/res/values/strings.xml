@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">Article Text
+    \n\n agung bahariyanto irhasn \n\n
+        <b><i>andai aku bisa pulang ke masa kecil</i></b>
+
+
+    </string>
+</resources>
